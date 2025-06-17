@@ -1,0 +1,1 @@
+To simulate a Workday Adaptive Planning implementation by building a financial model, scenario analysis, and dashboards using available tools, replicating the role of a Business Analyst or FP&A consultant.
